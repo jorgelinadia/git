@@ -11,4 +11,4 @@ git checkout master, me posiciona en la rama master
 git checkout color, me posiciona en la rama color
 git merge nombre_rama si nos gusta lo que tenemos en la rama y queremos mezclarlo con la rama principal
 git branch -d nombre_rama  queremos eliminar una rama
-===
+git fork: me genera una copia de otro repositorio
